@@ -38,5 +38,3 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequali
 
 # Author
 Kassandra Vasquez
-HOW TO MAKE THE REPO LOOK EXTRA CLEAN
-
