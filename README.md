@@ -21,7 +21,7 @@ The dataset contains physicochemical measurements of red wine samples, including
 - quality ratings
 
 Dataset Source:
-https://archive.ics.uci.edu/ml/datasets/wine+quality
+https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
 
 # Key Findings
 - Most wines were rated between quality levels 5 and 6.
