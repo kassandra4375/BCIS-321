@@ -1,5 +1,3 @@
-# BCIS-321
-
 # Red Wine Quality Analysis Using Python
 
 # Overview
